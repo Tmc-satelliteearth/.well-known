@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.live.earth.map.satellite.earth.landmarks.live.earth.cam",
+    "sha256_cert_fingerprints":
+    ["BD:DB:63:00:10:B4:4E:22:B7:FC:15:BA:3D:86:74:BA:08:FF:1D:88:BF:C4:97:6F:08:DD:D1:06:76:58:5F:80"]
+  }
+}]
